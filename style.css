@@ -66,6 +66,10 @@
     position: absolute;
     width: 236px;
     height: 24px;
-    left: 610px;
+    left: 560px;
     top: 650px;
+}
+
+.rodape img {
+    padding: 10px;
 }
