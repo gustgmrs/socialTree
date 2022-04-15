@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+.elipse {
+    position: absolute;
+    width: 225px;
+    height: 213px;
+    left: 570px;
+    top: 70px;
+    border: 2px solid #BB99DD;
+    width: 0 auto;
+    border-radius: 100%;
+}
+
+.elipse img {
+    position: relative;
+    width: 210px;
+    height: 200px;
+    left: 7px;
+    top: 7px;
+    border-radius: 100%;
+}
+
+.insta {
+    position: absolute;
+    width: 110px;
+    height: 24px;
+    left: 630px;
+    top: 300px;
+
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #BB99DD;
+}
+
+.container {
+    position: absolute;
+    width: 326;
+    height: 49px;
+    left: 485px;
+    top: 320px;
+}
+
+.caixa {
+    padding: 12px 130px 13px 141px;
+    margin: 20px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+}
+
+.caixa a {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.rodape {
+    position: absolute;
+    width: 236px;
+    height: 24px;
+    left: 610px;
+    top: 650px;
+}
